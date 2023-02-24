@@ -1,2 +1,3 @@
-# katekashuba.github.io
-Simple JS Chatbot
+Simple JavaScript Chatbot
+- Click the link to see
+  [DEMO LINK](https://katekashuba.github.io/chatbot/)
